@@ -1,0 +1,26 @@
+=== ANÁLISE TÉCNICA DE OUTLIERS ===
+
+1. RESULTADO DO TESTE DE GRUBBS:
+
+	Grubbs test for one outlier
+
+data:  serie_log
+G = 2.72585, U = 0.99736, p-value = 1
+alternative hypothesis: highest value 6.70716791338129 is an outlier
+
+null device 
+          1 
+
+Executado em: g:/Meu Drive/series temporais/lista_01 
+Relatório e gráficos salvos em: outputs/ 
+null device 
+          1 
+
+Simulação e Suavização concluídas.
+Gráfico salvo em: outputs/ 
+null device 
+          1 
+
+Análise X-13 concluída.
+Relatório salvo em: outputs/ 
+1.0304598
