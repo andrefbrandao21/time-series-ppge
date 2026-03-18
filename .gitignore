@@ -1,0 +1,23 @@
+# Dados e Outputs (Ignorar conforme planejado)
+**/data/
+**/outputs/
+**/scripts/
+
+
+# R e RStudio/Positron
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
